@@ -1,13 +1,13 @@
 # Assignment 2 
 
-Part 1
+# Part 1
 A Vue.js app that searches for books using a public google books API. The following features have been implemented. 
 
 1) Added pagination with next and previous buttons. Each page shows 20 results and the next/previons buttons are disable/enabled only when additional content is available. For example, for the first 20 results, the previous button is disabled. for the last 20 results, the next button is disabled.
 2) Each book is displayed via a template, no undefined variables are displayed and the authors list displays correctly. 
 3) When available, book thumbnails are presented appropriately. 
 
-Part 2 
+# Part 2 
 Please see part 2 in the following repo: https://github.com/WebKmn/Online_Social_Network
 
 A continuation of Assignment one. The following features have been implemented.
